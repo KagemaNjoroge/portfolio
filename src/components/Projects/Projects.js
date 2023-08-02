@@ -26,7 +26,7 @@ function Projects() {
               title="Tomorrow Cloud"
               description="A cloud based platform that allows users to generate and send invoices to their clients.The platform also allows users to manage their clients and products. Tax compliance (KRA ETIMS) is handled out of the box. Tax compliance and invoice generation is now just a touch away."
               ghLink="https://github.com/jemo6585/Tomorrow"
-              demoLink="https://tomorrrow.co.ke/"
+              demoLink="https://tomorrow.co.ke/"
             />
           </Col>
 
