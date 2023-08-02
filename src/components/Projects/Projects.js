@@ -24,7 +24,7 @@ function Projects() {
               imgPath={tomorrow}
               isBlog={false}
               title="Tomorrow Cloud"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="A cloud based platform that allows users to generate and send invoices to their clients.The platform also allows users to manage their clients and products. Tax compliance (KRA ETIMS) is handled out of the box. Tax compliance and invoice generation is now just a touch away."
               ghLink="https://github.com/jemo6585/Tomorrow"
               demoLink="https://tomorrrow.co.ke/"
             />
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={metro}
               isBlog={false}
               title="Metro Card"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="A web application that allows users to manage their metro cards. The application allows users to top up their cards, view their transaction history and also view their card balance. The application also allows users to report lost cards and also block their cards. Users can book for buses(Currently in Kenya) via the website. Bus booking has never been this easier!"
               ghLink="https://github.com/KagemaNjoroge/Metro/"
               
             />
@@ -46,8 +46,7 @@ function Projects() {
               imgPath={kyle}
               isBlog={false}
               title="Carl & Kyle Solutions Limited Website"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="A website for a company that deals with ETR Machines, POS Hardware, Computers and general supplies. The website is built using ReactJs and Bootstrap."
               
               demoLink='https://www.carlnkyle.co.ke/'
               ghLink="https://github.com/KagemaNjoroge"
