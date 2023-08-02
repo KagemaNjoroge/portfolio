@@ -16,7 +16,10 @@ function Footer() {
           <h3>Designed and Developed by Kagema Njoroge</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Tomorrow Kenya</h3>
+          <h3>Copyright © {year} <a
+            href="https://tomorrow.co.ke"
+            >Tomorrow Kenya
+            </a></h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
