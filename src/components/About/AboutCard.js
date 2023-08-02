@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Kagema Njoroge </span>
+            Hola, I am <span className="purple">Kagema Njoroge </span>
             from <span className="purple">Nairobi Kenya</span>
             <br /> I am a 2nd year student pursuing BSC Computer Science at the University of Nairobi.
             <br />
