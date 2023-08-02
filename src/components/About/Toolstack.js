@@ -5,7 +5,6 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
   SiAndroidstudio
 } from "react-icons/si";
 
