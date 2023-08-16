@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v1.0<br/>
+  Portfolio Website - v1.1<br/>
   <a href="https://njoroge.tomorrow.co.ke" target="_blank">Kagema Njoroge</a>
 </h2>
 <div align="center">
@@ -10,11 +10,7 @@
 
 <center>
 
-
-
-
 </center>
-
 
 ## TL;DR
 
