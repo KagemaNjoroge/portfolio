@@ -53,7 +53,7 @@ function Projects() {
               ghLink="https://github.com/KagemaNjoroge"
             />
           </Col>
-                    </Col>
+                   
 
           <Col md={4} className="project-card">
             <ProjectCard
