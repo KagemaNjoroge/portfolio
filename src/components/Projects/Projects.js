@@ -63,7 +63,7 @@ function Projects() {
               description="This is a portfolio website I built for myself in the process of learning Flutter. It is deployed on GitHub pages and also features and Android APK"
               
               demoLink='https://kagemanjoroge.github.io'
-              ghLink="https://github.com/kagemanjoroge.github.io"
+              ghLink="https://github.com/KagemaNjoroge/kagemanjoroge.github.io"
             />
           </Col>
         </Row>
