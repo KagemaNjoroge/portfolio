@@ -2,10 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { ImPointRight } from "react-icons/im";
 
 function Home2() {
   return (
@@ -14,40 +13,69 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              I develop <span className="purple"> Software </span> that users
+              love!
             </h1>
             <p className="home-about-body">
-              I fell in ❤️ with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              As a dedicated software developer with a passion for innovation
+              and learning, I bring a wealth of experience and expertise to the
+              table. Over the course of 3 years in the field, I have honed my
+              skills in a range of technologies and frameworks, enabling me to
+              create dynamic and impactful solutions. While I may not claim to
+              have mastered every skill, my commitment to continuous growth and
+              adaptability makes me a valuable asset to any team.
               <br />
-              <br />I am fluent in classics like
+              <br />
               <i>
-                <b className="purple"> Python, Javascript, Dart </b>
+                <b className="purple"> Fluency in Diverse Technologies</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Backend Web Developent</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Language Processing.
-                </b>
-              </i>
+              <ImPointRight /> <b className="purple text-skill">PyTorch</b>
+              <b className="text-expertise">
+                {" "}
+                - My experience with PyTorch allows me to delve into the world
+                of machine learning and artificial intelligence, leveraging this
+                framework to develop cutting-edge solutions.
+              </b>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Flutter</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <ImPointRight /> <b className="purple text-skill">Python</b>
+              <b className="text-expertise">
+                {" "}
+                - A versatile and powerful programming language, I am fluent in
+                Python and utilize its capabilities to develop efficient and
+                scalable solutions.
+              </b>
+              <br />
+              <br />
+              <ImPointRight /> <b className="purple text-skill">Django</b>
+              <b className="text-expertise">
+                {" "}
+                - With a solid grasp of the Django framework, I am able to build
+                robust and user-friendly web applications that are both secure
+                and performant.
+              </b>
+              <br />
+              <br />
+              <ImPointRight /> <b className="purple text-skill">NextJs</b>
+              <b className="text-expertise">
+                {" "}
+                - My expertise in Next.js empowers me to create modern,
+                server-rendered React applications that offer seamless
+                performance and fast loading times.
+              </b>
+              <br></br>
+              <br></br>
+              <p className="purple">Learning as a core strength</p>
+              <p className="text-mastery">
+                While mastery is a journey, my ability to swiftly adapt and
+                learn new skills positions me as an asset to any project. I
+                thrive on challenges, embracing the opportunity to acquire new
+                knowledge and apply it effectively. My track record showcases my
+                capacity to dive into new technologies and produce impactful
+                results, even when faced with novel challenges.
+              </p>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -84,7 +112,6 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-
             </ul>
           </Col>
         </Row>
