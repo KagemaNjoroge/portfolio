@@ -6,13 +6,15 @@ import {
   DiPython,
   DiGit,
   DiDjango,
-  DiDart
+  DiDart,
+  
 } from "react-icons/di";
 import {
   SiFirebase,
   SiNextdotjs,
   SiPostgresql,
-  SiFlutter
+  SiFlutter,
+  SiPytorch
 } from "react-icons/si";
 
 function Techstack() {
@@ -53,6 +55,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiDart />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPytorch />
+      </Col>
+
 
 
     </Row>
