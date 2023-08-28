@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import kyle from "../../Assets/Projects/kyle.png"
 import metro from "../../Assets/Projects/metro.png"
 import tomorrow from "../../Assets/Projects/tomorrow.png"
+import kagema from "../../Assets/Projects/home.png"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -50,6 +51,19 @@ function Projects() {
               
               demoLink='https://www.carlnkyle.co.ke/'
               ghLink="https://github.com/KagemaNjoroge"
+            />
+          </Col>
+                   
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kagema}
+              isBlog={false}
+              title="Portfolio app built with Flutter"
+              description="This is a portfolio website I built for myself in the process of learning Flutter. It is deployed on GitHub pages and also features and Android APK"
+              
+              demoLink='https://kagemanjoroge.github.io'
+              ghLink="https://github.com/KagemaNjoroge/kagemanjoroge.github.io"
             />
           </Col>
         </Row>
