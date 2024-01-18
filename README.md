@@ -14,7 +14,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please credit me properly by linking to [Kagema Njoroge](https://github.com/kagemanjoroge/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own.
 
 ## Built With
 
@@ -62,4 +62,3 @@ You will find all the components used and can edit your information accordingly.
 
 Give a ⭐ if you like this website!
 
-<a href="https://bmc.link/kagemanjoroge" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Book" height= "60px" width= "217px" ></a>
