@@ -30,9 +30,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "I am thankful for all of those who said NO to me. It’s because of them I’m doing it myself."{" "}
+            "Surviving is winning, Franklin, everything else is bullsh*t. Fairy tales spun by people too afraid to look life in the eye.{" "}
           </p>
-          <footer className="blockquote-footer">Njoroge</footer>
+          <footer className="blockquote-footer">Michael De Santa</footer>
         </blockquote>
       </Card.Body>
     </Card>
