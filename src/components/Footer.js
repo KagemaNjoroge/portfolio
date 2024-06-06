@@ -18,7 +18,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} <a
             href="https://tomorrow.co.ke"
-            >Tomorrow Kenya
+            >TomorrowAI
             </a></h3>
         </Col>
         <Col md="4" className="footer-body">
